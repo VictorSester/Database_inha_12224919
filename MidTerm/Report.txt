@@ -1,0 +1,9 @@
+First, I looked at the different points in the databse requirements and created the differents tables in the database. In these tables, I created the different fields.
+
+I regrouped tables in different groups, for example, the tables for the trips, the tables for the vehicles and the tables related with the drivers. In this way, I could create the different relations between the tables easily.
+
+I thinked about the different relations between the tables and I created the some other tables to create the relations between the tables.
+
+For the scripts, I created the different scripts to create the tables, the different scripts to insert the data in the tables and the different scripts to create the relations between the tables.
+
+I then inserted some sample data in the tables.
